@@ -1,12 +1,6 @@
 [distributor]
 reject-unsupported-caps = true
 
-[logging]
-structured-logs = true
-log-file = "selenium-server.log"
-log-encoding = "UTF-8"
-log-level = "CONFIG"
-
 [node]
 detect-drivers = false
 enable-managed-downloads = true

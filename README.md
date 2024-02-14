@@ -48,3 +48,8 @@ Ensure that selenium grid is started, and in a new terminal:
 3. `./run-tests.sh chrome`
 4. `./run-tests.sh edge`
 5. `./run-tests.sh firefox`
+
+### Debug
+
+If it fails to start, problems will be logged to `./selenium-server.log`
+
